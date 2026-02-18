@@ -2,7 +2,8 @@
 <h3 align="center">📊 Data Analytics | 🤖 Machine Learning | 📈 Power BI | 📉 R Programming</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Power+BI+Dashboard+Builder;Python+%7C+R+%7C+SQL;Data+Analytics+Portfolio" />
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Power+BI+Dashboard+Builder;Python+%7C+R+%7C+SQL;Data+Analytics" />
+  
 </p>
 
 
@@ -46,10 +47,6 @@ Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch • ggplot2 • rpa
 ### 📈 Decision Tree Modeling & EDA – R
 - Missing data handling & predictive modeling
 👉 https://github.com/eacharan21/R-Project
-
-### 🩺 Pneumonia Image Classification (Deep Learning)
-- CNN model built using PyTorch
-- Achieved ~77% accuracy on X-ray dataset
 
 ---
 
