@@ -1,16 +1,76 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aditya Charan Eranki</h1>
+<h3 align="center">📊 Data Analytics | 🤖 Machine Learning | 📈 Power BI | 📉 R Programming</h3>
 
-<!--
-**eacharan21/eacharan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=MSc+Data+Science+Student;Machine+Learning+Enthusiast;Power+BI+Dashboard+Builder;Python+%7C+R+%7C+SQL" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+🎓 MSc Data Science Student at Vellore Institute of Technology  
+📊 Data Analytics Intern @ United Network of Professionals  
+🤖 Passionate about Machine Learning, Data Visualization & Predictive Modeling  
+💡 Interested in solving real-world problems using data-driven approaches  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![R](https://img.shields.io/badge/R-276DC3?logo=r)
+![SQL](https://img.shields.io/badge/SQL-orange)
+
+### 📊 Data Tools
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-blue)
+![Excel](https://img.shields.io/badge/Excel-green)
+
+### 🤖 Machine Learning & Libraries
+Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch • ggplot2 • rpart
+
+---
+
+## 🌟 Featured Projects
+
+### 🚗 Car Price Prediction – Machine Learning
+- Regression modeling & model comparison
+👉 https://github.com/eacharan21/Car-price-prediction-final-
+
+### 📊 Personal Finance Dashboard – Power BI
+- KPI dashboard & financial analytics
+👉 https://github.com/eacharan21/PowerBi-Project
+
+### 📈 Decision Tree Modeling & EDA – R
+- Missing data handling & predictive modeling
+👉 https://github.com/eacharan21/R-Project
+
+### 🩺 Pneumonia Image Classification (Deep Learning)
+- CNN model built using PyTorch
+- Achieved ~77% accuracy on X-ray dataset
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=eacharan21&show_icons=true&theme=default"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacharan21&layout=compact"/>
+</p>
+
+---
+
+## 📌 Current Focus
+- Advanced Machine Learning Projects
+- Data Analytics & Dashboard Development
+- Building a Strong Data Science Portfolio
+
+---
+
+## 📫 Connect With Me
+📧 erankiadityacharan@gmail.com  
+🌐 https://github.com/eacharan21
