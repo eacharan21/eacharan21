@@ -2,8 +2,9 @@
 <h3 align="center">📊 Data Analytics | 🤖 Machine Learning | 📈 Power BI | 📉 R Programming</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=MSc+Data+Science+Student;Machine+Learning+Enthusiast;Power+BI+Dashboard+Builder;Python+%7C+R+%7C+SQL" />
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Power+BI+Dashboard+Builder;Python+%7C+R+%7C+SQL;Data+Analytics+Portfolio" />
 </p>
+
 
 ---
 
