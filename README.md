@@ -3,10 +3,7 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Power+BI+Dashboard+Builder;Python+%7C+R+%7C+SQL;Data+Analytics" />
-  
 </p>
-
-
 ---
 
 ## 🚀 About Me
