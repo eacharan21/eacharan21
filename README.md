@@ -52,17 +52,6 @@ Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch • ggplot2 • rpa
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=eacharan21&show_icons=true&theme=default"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacharan21&layout=compact"/>
-</p>
-
----
 
 ## 📌 Current Focus
 - Advanced Machine Learning Projects
