@@ -1,59 +1,75 @@
-<h1 align="center">Hi 👋, I'm Aditya Charan Eranki</h1>
-<h3 align="center">📊 Data Analytics | 🤖 Machine Learning | 📈 Power BI | 📉 R Programming</h3>
+# 👋 Hi, I'm Aditya Charan Eranki
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Power+BI+Dashboard+Builder;Python+%7C+R+%7C+SQL;Data+Analytics" />
-</p>
+🚀 **Machine Learning | Data Analytics | NLP | Deep Learning | Power BI**
 
-## 🚀 About Me
-🎓 MSc Data Science Student at Vellore Institute of Technology  
-📊 Data Analytics Intern @ United Network of Professionals  
-🤖 Passionate about Machine Learning, Data Visualization & Predictive Modeling  
-💡 Interested in solving real-world problems using data-driven approaches  
+I build end-to-end data science solutions — from exploratory analysis and feature engineering to machine learning, deep learning, and business dashboards.
+
+---
+
+## 🧠 About Me
+
+* 📊 Strong interest in **Applied Machine Learning & Analytics**
+* 🤖 Experience in NLP, Image Classification, and Predictive Modeling
+* 📈 Passionate about solving real-world problems using data
+* 🛠️ Skilled in Python, Scikit-learn, TensorFlow, Power BI, and R
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![R](https://img.shields.io/badge/R-276DC3?logo=r)
-![SQL](https://img.shields.io/badge/SQL-orange)
-
-### 📊 Data Tools
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-blue)
-![Excel](https://img.shields.io/badge/Excel-green)
-
-### 🤖 Machine Learning & Libraries
-Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch • ggplot2 • rpart
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?logo=scikitlearn)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-TensorFlow-FF6F00?logo=tensorflow)
+![Power BI](https://img.shields.io/badge/Visualization-PowerBI-F2C811?logo=powerbi)
+![R](https://img.shields.io/badge/R-Analytics-276DC3?logo=r)
+![NLP](https://img.shields.io/badge/NLP-Text%20Analytics-success)
 
 ---
 
-## 🌟 Featured Projects
+## ⭐ Featured Projects
 
-### 🚗 Car Price Prediction – Machine Learning
-- Regression modeling & model comparison
-👉 https://github.com/eacharan21/Car-price-prediction-final-
+### 🧠 Advanced Machine Learning
 
-### 📊 Personal Finance Dashboard – Power BI
-- KPI dashboard & financial analytics
-👉 https://github.com/eacharan21/PowerBi-Project
+🔗 https://github.com/eacharan21/Advance-Machine-Learning
+NLP Sentiment Analysis & CNN Image Classification with feature engineering and model evaluation.
 
-### 📈 Decision Tree Modeling & EDA – R
-- Missing data handling & predictive modeling
-👉 https://github.com/eacharan21/R-Project
+### 🏦 Bank Marketing Prediction (Internship Project)
+
+🔗 https://github.com/eacharan21/Bank_Final
+End-to-end classification pipeline with SMOTE, RFE feature selection, and ensemble learning.
+🏆 Best Model: XGBoost (92.33% Accuracy)
+
+### 🚗 Car Price Prediction
+
+🔗 https://github.com/eacharan21/Car-price-prediction-final-
+Regression modelling with ensemble algorithms and performance comparison.
+
+### 📊 Power BI Dashboard Project
+
+🔗 https://github.com/eacharan21/PowerBi-Project
+Business analytics dashboards with interactive visual storytelling.
+
+### 📈 R Analytics Project
+
+🔗 https://github.com/eacharan21/R-Project
+Statistical analysis and visualization using R.
 
 ---
 
+## 📊 What I Focus On
 
-## 📌 Current Focus
-- Advanced Machine Learning Projects
-- Data Analytics & Dashboard Development
-- Building a Strong Data Science Portfolio
+✔ Applied Machine Learning
+✔ Predictive Modeling
+✔ Data Visualization & Business Analytics
+✔ NLP & Deep Learning Projects
 
 ---
 
 ## 📫 Connect With Me
-📧 erankiadityacharan@gmail.com  
-🌐 https://github.com/eacharan21
+
+* 💼 LinkedIn: *(Add your LinkedIn link here)*
+* 📧 Email: *(Add your email if you want recruiters to contact you)*
+
+---
+
+⭐ *Building practical machine learning solutions that bridge data science and real-world impact.*
