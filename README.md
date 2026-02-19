@@ -1,27 +1,26 @@
 # 👋 Hi, I'm Aditya Charan Eranki
 
-🚀 **Machine Learning | Data Analytics | NLP | Deep Learning | Power BI**
-
-I build end-to-end data science solutions — from exploratory analysis and feature engineering to machine learning, deep learning, and business dashboards.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Data+Analytics+Enthusiast;NLP+%7C+Deep+Learning+%7C+Power+BI;Building+Real+World+ML+Projects&center=true&width=600&height=50">
+</p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-* 📊 Strong interest in **Applied Machine Learning & Analytics**
-* 🤖 Experience in NLP, Image Classification, and Predictive Modeling
-* 📈 Passionate about solving real-world problems using data
-* 🛠️ Skilled in Python, Scikit-learn, TensorFlow, Power BI, and R
+💡 Passionate about **Applied Machine Learning, NLP, and Data Analytics**
+📊 I build end-to-end ML solutions — from data preprocessing to deployment-ready models.
+🧠 Interested in predictive modelling, deep learning, and real-world analytics problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?logo=scikitlearn)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-TensorFlow-FF6F00?logo=tensorflow)
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,r,git,github" />
+</p>
+
 ![Power BI](https://img.shields.io/badge/Visualization-PowerBI-F2C811?logo=powerbi)
-![R](https://img.shields.io/badge/R-Analytics-276DC3?logo=r)
 ![NLP](https://img.shields.io/badge/NLP-Text%20Analytics-success)
 
 ---
@@ -31,45 +30,45 @@ I build end-to-end data science solutions — from exploratory analysis and feat
 ### 🧠 Advanced Machine Learning
 
 🔗 https://github.com/eacharan21/Advance-Machine-Learning
-NLP Sentiment Analysis & CNN Image Classification with feature engineering and model evaluation.
+NLP Sentiment Analysis & CNN Image Classification.
 
 ### 🏦 Bank Marketing Prediction (Internship Project)
 
 🔗 https://github.com/eacharan21/Bank_Final
-End-to-end classification pipeline with SMOTE, RFE feature selection, and ensemble learning.
-🏆 Best Model: XGBoost (92.33% Accuracy)
+SMOTE + RFE + Ensemble Models
+🏆 Best Model: **XGBoost — 92.33% Accuracy**
 
 ### 🚗 Car Price Prediction
 
 🔗 https://github.com/eacharan21/Car-price-prediction-final-
-Regression modelling with ensemble algorithms and performance comparison.
+Regression modelling with ensemble learning.
 
 ### 📊 Power BI Dashboard Project
 
 🔗 https://github.com/eacharan21/PowerBi-Project
-Business analytics dashboards with interactive visual storytelling.
+Interactive business dashboards.
 
 ### 📈 R Analytics Project
 
 🔗 https://github.com/eacharan21/R-Project
-Statistical analysis and visualization using R.
+Statistical modelling and visualization.
 
 ---
 
-## 📊 What I Focus On
+## 🎯 Focus Areas
 
 ✔ Applied Machine Learning
-✔ Predictive Modeling
-✔ Data Visualization & Business Analytics
-✔ NLP & Deep Learning Projects
+✔ Predictive Analytics
+✔ NLP & Deep Learning
+✔ Business Intelligence & Visualization
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *www.linkedin.com/in/aditya-charan-eranki-95176725a*
-* 📧 Email: *erankiadityacharan@gmail.com*
+💼 LinkedIn: [www.linkedin.com/in/aditya-charan-eranki-95176725a](http://www.linkedin.com/in/aditya-charan-eranki-95176725a)
+📧 Email: [erankiadityacharan@gmail.com](mailto:erankiadityacharan@gmail.com)
 
 ---
 
-⭐ *Building practical machine learning solutions that bridge data science and real-world impact.*
+⭐ *Turning data into intelligent solutions.*
