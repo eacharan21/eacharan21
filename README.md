@@ -67,8 +67,8 @@ Statistical analysis and visualization using R.
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(Add your LinkedIn link here)*
-* 📧 Email: *(Add your email if you want recruiters to contact you)*
+* 💼 LinkedIn: *www.linkedin.com/in/aditya-charan-eranki-95176725a*
+* 📧 Email: *erankiadityacharan@gmail.com*
 
 ---
 
