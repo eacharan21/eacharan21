@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aditya Charan Eranki
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Data+Analytics+Enthusiast;NLP+%7C+Deep+Learning+%7C+Power+BI;Building+Real+World+ML+Projects&center=true&width=600&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning;Data+Analytics+Enthusiast;NLP+%7C+Deep+Learning+%7C+Power+BI;Building+Real+World+ML+Projects&center=true&width=600&height=50">
 </p>
 
 ---
