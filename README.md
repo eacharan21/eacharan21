@@ -65,7 +65,7 @@ Statistical modelling and visualization.
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: [www.linkedin.com/in/aditya-charan-eranki-95176725a](http://www.linkedin.com/in/aditya-charan-eranki-95176725a)
+💼 LinkedIn: [www.linkedin.com/in/aditya-charan-eranki](http://www.linkedin.com/in/aditya-charan-eranki)
 📧 Email: [erankiadityacharan@gmail.com](mailto:erankiadityacharan@gmail.com)
 
 ---
