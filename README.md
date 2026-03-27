@@ -35,18 +35,17 @@ NLP Sentiment Analysis & CNN Image Classification.
 ### 🏦 Bank Marketing Prediction (Internship Project)
 
 🔗 https://github.com/eacharan21/Bank_Final
-SMOTE + RFE + Ensemble Models
-🏆 Best Model: **XGBoost — 92.33% Accuracy**
+Machine Learning Modelling
 
 ### 🚗 Car Price Prediction
 
 🔗 https://github.com/eacharan21/Car-price-prediction-final-
-Regression modelling with ensemble learning.
+Machine Learning Modelling
 
 ### 📊 Power BI Dashboard Project
 
 🔗 https://github.com/eacharan21/PowerBi-Project
-Interactive business dashboards.
+Interactive Personal Finance dashboards.
 
 ### 📈 R Analytics Project
 
